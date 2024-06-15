@@ -1,4 +1,7 @@
 <?php
 
-echo "Hello World!"; \n
-echo "welcome to my website";
+echo "Hello World!";
+echo "\n"; // Adding a new line
+echo "Welcome to my website";
+?>
+
